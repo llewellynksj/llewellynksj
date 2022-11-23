@@ -32,10 +32,30 @@ Email me at llewellyn.ksj@gmail.com
 ---
 
 ### Key Skills
+#### Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+#### I'm learning now
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### I'm learning next
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+#### Version Control / IDE's
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ---
 
 ### Portfolio Projects
+Below are listed the Portfolio Projects I have created as part of my Diploma with the Code Institute
+
+| Title| Snapshot | Summary | Grade |
+| :---: | :----: | :----: | :----: |
+| Mama & Cub | 
+
 
 
 
