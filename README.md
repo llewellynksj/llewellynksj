@@ -1,4 +1,23 @@
-### Hi there 👋
+# Kate Llewellyn
+
+## Full-Stack Software Development student with Code Institute
+
+
+# About me
+
+---
+
+# Contact Details
+
+---
+
+# Key Skills
+
+---
+
+# Portfolio Projects
+
+
 
 <!--
 **llewellynksj/llewellynksj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
