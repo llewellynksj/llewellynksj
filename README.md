@@ -35,12 +35,20 @@ Email me at llewellyn.ksj@gmail.com
 #### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### I'm learning now
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 #### I'm learning next
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 #### Version Control / IDE's
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -55,5 +63,6 @@ Below are listed the Portfolio Projects I have created as part of my Diploma wit
 | Title| Snapshot | Summary | Grade |
 | :---: | :----: | :----: | :----: |
 | [Mama & Cub](https://github.com/llewellynksj/muma-and-cub) | ![Muma & Cub](amiresponsive-mumaandcub.webp) | Mama & Cub is a simple to use website aimed at bringing together parents and their children in the Exeter area of South Devon, UK.<br>It is a fictional site created as my first Portfolio Project for my Code Institute Diploma.<br>Built using HTML and CSS. | Distinction |
+| [Kitchen Catastrophe](https://github.com/llewellynksj/kitchen-catastrophe) | ![Kitchen Catastrophe](amiresponsive-kitchen-catastrophe.webp) | Kitchen Catastrophe is a fun and light-hearted game aimed at anyone who loves a word problem and/or loves food and drink!<br>It has been created for my second Portfolio Project as part of my Code Institute Diploma.<br>Built using HTML, CSS and JavaScript. | TBC |
 
 
