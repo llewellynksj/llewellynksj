@@ -75,6 +75,6 @@ Below are the Hackathon Projects I have partcipated in as part of my Diploma wit
 
 | Theme| Date | Project | Badges |
 | :---: | :----: | :----: | :----: |
-| Stamp Out the Stigma: Supporting Veterans’ Mental Health | 12th - 15th April 2023 | [CheckPoint](https://github.com/Vasi012/CheckpointSite)<br>CheckPoint is a website that has been created to facilitate a peer-led support service to veterans dealing with mental health struggles.<br>The blog style of the site allows veterans to share their own experiences and explore different ways of improving their health & wellbeing.<br>Built using Django, Bootstrap, HTML, CSS and Python.<br>Please note this site is currently not deployed and work is ongoing | ![Participation Badge]((https://user-images.githubusercontent.com/113505591/234791769-692bc487-f4cc-4ebe-ad1b-55e4f230e10d.png) |
+| Stamp Out the Stigma: Supporting Veterans’ Mental Health | 12th - 15th April 2023 | [CheckPoint](https://github.com/Vasi012/CheckpointSite)<br>CheckPoint is a website that has been created to facilitate a peer-led support service to veterans dealing with mental health struggles.<br>The blog style of the site allows veterans to share their own experiences and explore different ways of improving their health & wellbeing.<br>Built using Django, Bootstrap, HTML, CSS and Python.<br>Please note this site is currently not deployed and work is ongoing | ![Participation Badge](https://user-images.githubusercontent.com/113505591/234791769-692bc487-f4cc-4ebe-ad1b-55e4f230e10d.png) |
 
 
