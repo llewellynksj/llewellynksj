@@ -4,7 +4,7 @@
 
 
 ### About me
-Hi, my name's Kate and I'm currently undertaking a **Level 5(EQF) Diploma in Full-Stack Software Development** with the **Code Institute**. I'm committed to a career move into Software Development and conside some of my key strengths to be:
+Hi, my name's Kate and I'm currently undertaking a **Level 5(EQF) Diploma in Full-Stack Software Development** with the **Code Institute**. I'm committed to a career move into Software Development and consider some of my key strengths to be:
 <br>
 :arrows_counterclockwise: UX Design
 <br>
