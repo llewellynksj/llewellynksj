@@ -97,4 +97,16 @@ Below are the Hackathon Projects I have partcipated in as part of my Diploma wit
 | Stamp Out the Stigma: Supporting Veterans’ Mental Health | 12th - 15th April 2023 | [CheckPoint](https://github.com/Vasi012/CheckpointSite)<br>CheckPoint is a website that has been created to facilitate a peer-led support service to veterans dealing with mental health struggles.<br>The blog style of the site allows veterans to share their own experiences and explore different ways of improving their health & wellbeing.<br>Built using Django, Bootstrap, HTML, CSS and Python.<br>Please note this site is currently not deployed and work is ongoing | ![Participation Badge](https://user-images.githubusercontent.com/113505591/234791769-692bc487-f4cc-4ebe-ad1b-55e4f230e10d.png) |
 | May the 4th - A Star Wars Hackathon | 10th - 15th May 2023 | [DeathScape](https://github.com/alissatroiano/team-11)<br>Use your Star Wars knowledge to escape the Death Star! In this star wars themed escape room game. Find the hidden mini-games, complete them all to unlock the sealed door and lead the others to safety. Can you escape from the falling ship?<br>Built using HTML, CSS and JavaScript.<br>[Visit the depolyed site](https://alissatroiano.github.io/team-11/) | ![Code Institute - May 2023 Hackathon 3rd Place - 2023-05-16 (3)](https://github.com/llewellynksj/llewellynksj/assets/113505591/94fdfed2-f402-43e5-8272-4e9f65f2821d)
 
+---
 
+### Other Qualifications & Certificates
+
+| Subject| Organisation | Date | Notes |
+| :---: | :----: | :----: | :----: |
+| Politics with Sociology | Kingston University | 2013 | Awarded a 2.1 |
+| Python (Basic) | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) | March 2023 | [View Credential](https://www.hackerrank.com/certificates/28ae32eabdcf) |
+| CSS | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) | April 2023 | [View Credential](https://www.hackerrank.com/certificates/d298f40ffc0b) |
+| Problem Solving (Basic) | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) | August 2023 | [View Credential](https://www.hackerrank.com/certificates/7b15b5fe8ad0) |
+| HTML | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <br> Skills Assessment | October 2022 | |
+| CSS | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <br> Skills Assessment | May 2023 | |
+| Django | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <br> Skills Assessment | August 2023 | |
