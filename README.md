@@ -7,10 +7,15 @@
 Hi, my name's Kate and I'm currently undertaking a **Level 5(EQF) Diploma in Full-Stack Software Development** with the **Code Institute**. I'm committed to a career move into Software Development and conside some of my key strengths to be:
 <br>
 :arrows_counterclockwise: UX Design
+<br>
 :art: UI Design
+<br>
 :page_facing_up: Documentation
-Communication
-Team Player
+<br>
+:speech_balloon: Communication
+<br>
+:busts_in_silhouette: Teamwork
+<br>
 <br>
 I've always been drawn to coding and I think this is because of my propensity for method and order. I love that writing code allows me to be organised and methodical but also enables my creativity (something I would not have considered myself capable of in the past!).
 
@@ -23,6 +28,9 @@ Some of my other interests include:
 :blue_book: Reading
 <br>
 :racing_car: Motorsport
+<br>
+<br>
+I'm particularly interested in working on projects around :recycle: renewable energy and climate change :earth_africa:
 
 <br>
 My pronouns are she/her/hers
