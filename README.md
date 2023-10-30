@@ -17,6 +17,9 @@ Hi, my name's Kate and I'm currently undertaking a **Level 5(EQF) Diploma in Ful
 :busts_in_silhouette: Teamwork
 <br>
 <br>
+Check out my [Portfolio Projects](#portfolio-projects) completed as part of my Code Institute course below :point_down:
+<br>
+<br>
 I've always been drawn to coding and I think this is because of my propensity for method and order. I love that writing code allows me to be organised and methodical but also enables my creativity (something I would not have considered myself capable of in the past!).
 
 Some of my other interests include:
@@ -72,7 +75,7 @@ Email me at llewellyn.ksj@gmail.com
 ![](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### I'm learning next
+#### I'm learning now
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django Rest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
