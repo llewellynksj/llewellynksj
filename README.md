@@ -42,7 +42,7 @@ My pronouns are she/her/hers
 
 ### Contact Details
 
-Find me on [LinkedIn](www.linkedin.com/in/llewellynksj)
+Find me on [LinkedIn](https://www.linkedin.com/in/llewellynksj/)
 <br>
 Email me at llewellyn.ksj@gmail.com
 
