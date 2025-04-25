@@ -1,6 +1,6 @@
 # Kate Llewellyn
 
-## Full-Stack Software Development student with Code Institute
+## Application Support Technician / Junior Developer
 
 
 ### About me
